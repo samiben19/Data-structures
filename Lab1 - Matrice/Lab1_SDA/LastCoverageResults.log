@@ -1,0 +1,21 @@
+[2021-03-26 16:26:58] [info] Start Program:
+Path:"D:\\Facultate\\Materii\\Anul 1 - Semestrul 2\\Structuri de date si algoritmi\\Laborator\\Lab 1 - TAD Matrice\\Lab1_SDA\\Debug\\Lab1_SDA.exe"
+Arguments:
+Working directory: "D:\\Facultate\\Materii\\Anul 1 - Semestrul 2\\Structuri de date si algoritmi\\Laborator\\Lab 1 - TAD Matrice\\Lab1_SDA\\Lab1_SDA\\"
+Modules: Selected: D:\Facultate\Materii\Anul 1 - Semestrul 2\Structuri de date si algoritmi\Laborator\Lab 1 - TAD Matrice\Lab1_SDA\Debug\Lab1_SDA.exe Excluded: 
+Sources: Selected: D:\Facultate\Materii\Anul 1 - Semestrul 2\Structuri de date si algoritmi\Laborator\Lab 1 - TAD Matrice\Lab1_SDA\Lab1_SDA Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: binary C:\Users\Delta Laptop\AppData\Local\Temp\i05cd02v.tyu 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2021-03-26 16:26:58] [info] Module: D:\Facultate\Materii\Anul 1 - Semestrul 2\Structuri de date si algoritmi\Laborator\Lab 1 - TAD Matrice\Lab1_SDA\Debug\Lab1_SDA.exe is selected because it matches selected pattern: D:\Facultate\Materii\Anul 1 - Semestrul 2\Structuri de date si algoritmi\Laborator\Lab 1 - TAD Matrice\Lab1_SDA\Debug\Lab1_SDA.exe
+[2021-03-26 16:27:06] [info] ----------------------------------------------------
+[2021-03-26 16:27:06] [info] Coverage binary generated in file: C:\Users\Delta Laptop\AppData\Local\Temp\i05cd02v.tyu
+[2021-03-26 16:27:06] [info] ----------------------------------------------------
